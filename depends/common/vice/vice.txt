@@ -1,1 +1,1 @@
-vice https://github.com/libretro/vice-libretro/archive/ba666e1d5ef0fbfd8f569ea446fbda831bf03c9a.zip
+vice https://github.com/libretro/vice-libretro/archive/6d00b70df409129649ba303953d252e2b544c384.zip
