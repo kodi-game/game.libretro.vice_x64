@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice)
+[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice_x64.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice_x64)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice_x64?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice-x64)
 
 # Commodore - C64 (VICE x64, fast)
 
@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Commodore - C64 (VICE x64, fast) icon](game.libretro.vice/resources/icon.png)
+![Commodore - C64 (VICE x64, fast) icon](game.libretro.vice_x64/resources/icon.png)
 
 ### Fanart
 

@@ -1,0 +1,1 @@
+vice_x64 https://github.com/kodi-game/vice-libretro/archive/5c8547e7e207ff74ff31b693b13d4d646fc6eef9.tar.gz

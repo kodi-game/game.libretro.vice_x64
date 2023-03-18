@@ -1,14 +1,14 @@
-Source: kodi-game-libretro-vice
+Source: kodi-game-libretro-vice-x64
 Priority: extra
 Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-vice (>= 3.5.0) | vice (>= 3.5.0)
+               libretro-vice_x64 (>= 3.7.0) | vice_x64 (>= 3.7.0)
 Standards-Version: 3.9.8
 Section: libs
 
-Package: kodi-game-libretro-vice
+Package: kodi-game-libretro-vice-x64
 Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
