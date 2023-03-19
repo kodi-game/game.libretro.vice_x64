@@ -130,12 +130,12 @@ msgid "Video > VIC-II Filter"
 msgstr "Vídeo > Filtro VIC-II"
 
 msgctxt "#30026"
-msgid "Video > VIC-II Filter Oddline Phase"
-msgstr "Vídeo > Filtro VIC-II Fase de Línea Impar"
+msgid "Video > VIC-II Filter Oddline Offset"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Video > VIC-II Filter Oddline Offset"
-msgstr "Vídeo > Filtro VIC-II Desplazamiento de Línea Impar"
+msgid "Video > VIC-II Filter Oddline Phase"
+msgstr ""
 
 msgctxt "#30028"
 msgid "Video > VIC-II Color Palette"
@@ -472,6 +472,14 @@ msgstr "RetroPad > Tipo de Puerto de Joystick"
 msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
 msgstr "RetroPad > Opciones Botón Frontal"
+
+#~ msgctxt "#30026"
+#~ msgid "Video > VIC-II Filter Oddline Phase"
+#~ msgstr "Vídeo > Filtro VIC-II Fase de Línea Impar"
+
+#~ msgctxt "#30027"
+#~ msgid "Video > VIC-II Filter Oddline Offset"
+#~ msgstr "Vídeo > Filtro VIC-II Desplazamiento de Línea Impar"
 
 #~ msgctxt "#30006"
 #~ msgid "Media > Cartridge"

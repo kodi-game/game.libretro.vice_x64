@@ -130,12 +130,12 @@ msgid "Video > VIC-II Filter"
 msgstr "Video > VIC-II-filter"
 
 msgctxt "#30026"
-msgid "Video > VIC-II Filter Oddline Phase"
-msgstr "Video > VIX-II filter fase for ulige linje"
+msgid "Video > VIC-II Filter Oddline Offset"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Video > VIC-II Filter Oddline Offset"
-msgstr "Video > VIX-II filter forskydning af ulige linje"
+msgid "Video > VIC-II Filter Oddline Phase"
+msgstr ""
 
 msgctxt "#30028"
 msgid "Video > VIC-II Color Palette"
@@ -472,6 +472,14 @@ msgstr "RetroPad > Type af joystickport"
 msgctxt "#30111"
 msgid "RetroPad > Face Button Options"
 msgstr "RetroPad > Indstillinger for face-knap"
+
+#~ msgctxt "#30026"
+#~ msgid "Video > VIC-II Filter Oddline Phase"
+#~ msgstr "Video > VIX-II filter fase for ulige linje"
+
+#~ msgctxt "#30027"
+#~ msgid "Video > VIC-II Filter Oddline Offset"
+#~ msgstr "Video > VIX-II filter forskydning af ulige linje"
 
 #~ msgctxt "#30006"
 #~ msgid "Media > Cartridge"
