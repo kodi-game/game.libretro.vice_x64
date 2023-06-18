@@ -182,296 +182,592 @@ msgid "OSD > Statusbar Mode"
 msgstr "OSD > 状态栏模式"
 
 msgctxt "#30039"
-msgid "OSD > Statusbar Messages"
-msgstr "OSD > 状态栏信息"
+msgid "OSD > Statusbar Startup"
+msgstr ""
 
 msgctxt "#30040"
-msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr "OSD > 光笔/枪指针颜色"
+msgid "OSD > Statusbar Messages"
+msgstr ""
 
 msgctxt "#30041"
-msgid "Show Audio Options"
-msgstr "显示音频选项"
+msgid "OSD > Light Pen/Gun Pointer Color"
+msgstr ""
 
 msgctxt "#30042"
-msgid "Audio > Drive Sound Emulation"
-msgstr "音频 > 驱动器声音模拟"
+msgid "Show Audio Options"
+msgstr ""
 
 msgctxt "#30043"
-msgid "Audio > Datasette Sound"
-msgstr "音频 > 磁带机声音"
+msgid "Audio > Drive Sound Emulation"
+msgstr ""
 
 msgctxt "#30044"
-msgid "Audio > VIC-II Audio Leak Emulation"
-msgstr "音频 > VIC-II 音频泄漏仿真"
+msgid "Audio > Datasette Sound"
+msgstr ""
 
 msgctxt "#30045"
-msgid "Audio > SID Engine"
-msgstr "音频 > SID 引擎"
+msgid "Audio > VIC-II Audio Leak Emulation"
+msgstr ""
 
 msgctxt "#30046"
-msgid "Audio > SID Model"
-msgstr "音频 > SID 型号"
+msgid "Audio > SID Engine"
+msgstr ""
 
 msgctxt "#30047"
-msgid "Audio > SID Extra"
-msgstr "音频 > SID 附加"
+msgid "Audio > SID Model"
+msgstr ""
 
 msgctxt "#30048"
-msgid "Audio > ReSID Sampling"
-msgstr "音频 > ReSID 采样"
+msgid "Audio > SID Extra"
+msgstr ""
 
 msgctxt "#30049"
-msgid "Audio > ReSID Filter Passband"
-msgstr "音频 > ReSID 滤波器通带"
+msgid "Audio > ReSID Sampling"
+msgstr ""
 
 msgctxt "#30050"
-msgid "Audio > ReSID Filter Gain"
-msgstr "音频 > ReSID 滤波器增益"
+msgid "Audio > ReSID Filter Passband"
+msgstr ""
 
 msgctxt "#30051"
-msgid "Audio > ReSID Filter 6581 Bias"
-msgstr "音频 > ReSID 滤波器 6581 Bias"
+msgid "Audio > ReSID Filter Gain"
+msgstr ""
 
 msgctxt "#30052"
-msgid "Audio > ReSID Filter 8580 Bias"
-msgstr "音频 > ReSID 滤波器 8580 Bias"
+msgid "Audio > ReSID Filter 6581 Bias"
+msgstr ""
 
 msgctxt "#30053"
-msgid "Audio > SFX Sound Expander"
-msgstr "音频 > SFX 扩音器"
+msgid "Audio > ReSID Filter 8580 Bias"
+msgstr ""
 
 msgctxt "#30054"
-msgid "Audio > Sample Rate"
-msgstr "音频 > 采样率"
+msgid "Audio > SFX Sound Expander"
+msgstr ""
 
 msgctxt "#30055"
-msgid "Input > Analog Stick Mouse"
-msgstr "输入 > 模拟游戏杆鼠标"
+msgid "Audio > Sample Rate"
+msgstr ""
 
 msgctxt "#30056"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr "输入 > 模拟游戏杆鼠标死区"
+msgid "Input > Analog Stick Mouse"
+msgstr ""
 
 msgctxt "#30057"
-msgid "Input > Analog Stick Mouse Speed"
-msgstr "输入 > 模拟游戏杆鼠标速度"
+msgid "Input > Analog Stick Mouse Deadzone"
+msgstr ""
 
 msgctxt "#30058"
-msgid "Input > D-Pad Mouse Speed"
-msgstr "输入 > 十字键鼠标速度"
+msgid "Input > Analog Stick Mouse Speed"
+msgstr ""
 
 msgctxt "#30059"
-msgid "Input > Mouse Speed"
-msgstr "输入 > 鼠标速度"
+msgid "Input > D-Pad Mouse Speed"
+msgstr ""
 
 msgctxt "#30060"
-msgid "Input > Keyboard Pass-through"
-msgstr "输入 > 键盘传递"
+msgid "Input > Mouse Speed"
+msgstr ""
 
 msgctxt "#30061"
-msgid "Input > Datasette Hotkeys"
-msgstr "输入 > 磁带机热键"
+msgid "Input > Keyboard Pass-through"
+msgstr ""
 
 msgctxt "#30062"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr "输入 > Keyrah 键盘映射"
+msgid "Input > Datasette Hotkeys"
+msgstr ""
 
 msgctxt "#30063"
-msgid "Input > Keyboard Keymap"
-msgstr "输入 > 键盘键映射"
+msgid "Input > Keyrah Keypad Mappings"
+msgstr ""
 
 msgctxt "#30064"
-msgid "Show Mapping Options"
-msgstr "显示映射选项"
+msgid "Input > Keyboard Keymap"
+msgstr ""
 
 msgctxt "#30065"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "热键 > 切换虚拟键盘"
+msgid "Show Mapping Options"
+msgstr ""
 
 msgctxt "#30066"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "热键 > 切换状态栏"
+msgid "Hotkey > Toggle Virtual Keyboard"
+msgstr ""
 
 msgctxt "#30067"
-msgid "Hotkey > Switch Joyport"
-msgstr "热键 > 切换 Joyport"
+msgid "Hotkey > Toggle Statusbar"
+msgstr ""
 
 msgctxt "#30068"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr "热键 > 切换 Turbo 开火"
+msgid "Hotkey > Switch Joyport"
+msgstr ""
 
 msgctxt "#30069"
-msgid "Hotkey > Toggle Save Disk"
-msgstr "热键 > 切换保存磁盘"
+msgid "Hotkey > Toggle Turbo Fire"
+msgstr ""
 
 msgctxt "#30070"
-msgid "Hotkey > Reset"
-msgstr "热键 > 重置"
+msgid "Hotkey > Toggle Save Disk"
+msgstr ""
 
 msgctxt "#30071"
-msgid "Hotkey > Hold Warp Mode"
-msgstr "热键 > 保持 Warp 模式"
+msgid "Hotkey > Reset"
+msgstr ""
 
 msgctxt "#30072"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr "热键 > 切换纵横比"
+msgid "Hotkey > Hold Warp Mode"
+msgstr ""
 
 msgctxt "#30073"
-msgid "Hotkey > Toggle Crop"
-msgstr "热键 > 切换裁剪"
+msgid "Hotkey > Toggle Aspect Ratio"
+msgstr ""
 
 msgctxt "#30074"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr "热键 > 切换缩放模式"
+msgid "Hotkey > Toggle Crop"
+msgstr ""
 
 msgctxt "#30075"
-msgid "Hotkey > Toggle Datasette Hotkeys"
-msgstr "热键 > 切换磁带机热键"
+msgid "Hotkey > Toggle Zoom Mode"
+msgstr ""
 
 msgctxt "#30076"
-msgid "Hotkey > Datasette PLAY"
-msgstr "热键 > 磁带机播放"
+msgid "Hotkey > Toggle Datasette Hotkeys"
+msgstr ""
 
 msgctxt "#30077"
-msgid "Hotkey > Datasette STOP"
-msgstr "热键 > 磁带机停止"
+msgid "Hotkey > Datasette PLAY"
+msgstr ""
 
 msgctxt "#30078"
-msgid "Hotkey > Datasette REWIND"
-msgstr "热键 > 磁带机倒带"
+msgid "Hotkey > Datasette STOP"
+msgstr ""
 
 msgctxt "#30079"
-msgid "Hotkey > Datasette F.FWD"
-msgstr "热键 > 磁带机快进"
+msgid "Hotkey > Datasette REWIND"
+msgstr ""
 
 msgctxt "#30080"
-msgid "Hotkey > Datasette RESET"
-msgstr "热键 > 磁带机重置"
+msgid "Hotkey > Datasette F.FWD"
+msgstr ""
 
 msgctxt "#30081"
-msgid "RetroPad > Up"
-msgstr "RetroPad > 上"
+msgid "Hotkey > Datasette RESET"
+msgstr ""
 
 msgctxt "#30082"
-msgid "RetroPad > Down"
-msgstr "RetroPad > 下"
+msgid "RetroPad > Up"
+msgstr ""
 
 msgctxt "#30083"
-msgid "RetroPad > Left"
-msgstr "RetroPad > 左"
+msgid "RetroPad > Down"
+msgstr ""
 
 msgctxt "#30084"
-msgid "RetroPad > Right"
-msgstr "RetroPad > 右"
+msgid "RetroPad > Left"
+msgstr ""
 
 msgctxt "#30085"
-msgid "RetroPad > A"
-msgstr "RetroPad > A"
+msgid "RetroPad > Right"
+msgstr ""
 
 msgctxt "#30086"
-msgid "RetroPad > B"
-msgstr "RetroPad > B"
+msgid "RetroPad > A"
+msgstr ""
 
 msgctxt "#30087"
-msgid "RetroPad > X"
-msgstr "RetroPad > X"
+msgid "RetroPad > B"
+msgstr ""
 
 msgctxt "#30088"
-msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
+msgid "RetroPad > X"
+msgstr ""
 
 msgctxt "#30089"
-msgid "RetroPad > Select"
-msgstr "RetroPad > 选择"
+msgid "RetroPad > Y"
+msgstr ""
 
 msgctxt "#30090"
-msgid "RetroPad > Start"
-msgstr "RetroPad > 开始"
+msgid "RetroPad > Select"
+msgstr ""
 
 msgctxt "#30091"
-msgid "RetroPad > L"
-msgstr "RetroPad > L"
+msgid "RetroPad > Start"
+msgstr ""
 
 msgctxt "#30092"
-msgid "RetroPad > R"
-msgstr "RetroPad > R"
+msgid "RetroPad > L"
+msgstr ""
 
 msgctxt "#30093"
-msgid "RetroPad > L2"
-msgstr "RetroPad > L2"
+msgid "RetroPad > R"
+msgstr ""
 
 msgctxt "#30094"
-msgid "RetroPad > R2"
-msgstr "RetroPad > R2"
+msgid "RetroPad > L2"
+msgstr ""
 
 msgctxt "#30095"
-msgid "RetroPad > L3"
-msgstr "RetroPad > L3"
+msgid "RetroPad > R2"
+msgstr ""
 
 msgctxt "#30096"
-msgid "RetroPad > R3"
-msgstr "RetroPad > R3"
+msgid "RetroPad > L3"
+msgstr ""
 
 msgctxt "#30097"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > 左模拟 > 上"
+msgid "RetroPad > R3"
+msgstr ""
 
 msgctxt "#30098"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > 左模拟 > 下"
+msgid "RetroPad > Left Analog > Up"
+msgstr ""
 
 msgctxt "#30099"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > 左模拟 > 左"
+msgid "RetroPad > Left Analog > Down"
+msgstr ""
 
 msgctxt "#30100"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > 左模拟 > 右"
+msgid "RetroPad > Left Analog > Left"
+msgstr ""
 
 msgctxt "#30101"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > 右模拟 > 上"
+msgid "RetroPad > Left Analog > Right"
+msgstr ""
 
 msgctxt "#30102"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > 右模拟 > 下"
+msgid "RetroPad > Right Analog > Up"
+msgstr ""
 
 msgctxt "#30103"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > 右模拟 > 左"
+msgid "RetroPad > Right Analog > Down"
+msgstr ""
 
 msgctxt "#30104"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > 右模拟 > 右"
+msgid "RetroPad > Right Analog > Left"
+msgstr ""
 
 msgctxt "#30105"
-msgid "RetroPad > Turbo Fire"
-msgstr "RetroPad > Turbo 开火"
+msgid "RetroPad > Right Analog > Right"
+msgstr ""
 
 msgctxt "#30106"
-msgid "RetroPad > Turbo Button"
-msgstr "RetroPad > Turbo 按钮"
+msgid "RetroPad > Turbo Fire"
+msgstr ""
 
 msgctxt "#30107"
-msgid "RetroPad > Turbo Pulse"
-msgstr "RetroPad > Turbo 脉冲"
+msgid "RetroPad > Turbo Button"
+msgstr ""
 
 msgctxt "#30108"
-msgid "Input > Userport Joystick Adapter"
-msgstr "输入 > 用户端口游戏杆适配器"
+msgid "RetroPad > Turbo Pulse"
+msgstr ""
 
 msgctxt "#30109"
-msgid "RetroPad > Joystick Port"
-msgstr "RetroPad > 游戏杆端口"
+msgid "Input > Userport Joystick Adapter"
+msgstr ""
 
 msgctxt "#30110"
-msgid "RetroPad > Joystick Port Type"
-msgstr "RetroPad > 游戏杆端口类型"
+msgid "RetroPad > Joystick Port"
+msgstr ""
 
 msgctxt "#30111"
+msgid "RetroPad > Joystick Port Type"
+msgstr ""
+
+msgctxt "#30112"
 msgid "RetroPad > Face Button Options"
-msgstr "Retropad > Face 按钮选项"
+msgstr ""
+
+#~ msgctxt "#30039"
+#~ msgid "OSD > Statusbar Messages"
+#~ msgstr "OSD > 状态栏信息"
+
+#~ msgctxt "#30040"
+#~ msgid "OSD > Light Pen/Gun Pointer Color"
+#~ msgstr "OSD > 光笔/枪指针颜色"
+
+#~ msgctxt "#30041"
+#~ msgid "Show Audio Options"
+#~ msgstr "显示音频选项"
+
+#~ msgctxt "#30042"
+#~ msgid "Audio > Drive Sound Emulation"
+#~ msgstr "音频 > 驱动器声音模拟"
+
+#~ msgctxt "#30043"
+#~ msgid "Audio > Datasette Sound"
+#~ msgstr "音频 > 磁带机声音"
+
+#~ msgctxt "#30044"
+#~ msgid "Audio > VIC-II Audio Leak Emulation"
+#~ msgstr "音频 > VIC-II 音频泄漏仿真"
+
+#~ msgctxt "#30045"
+#~ msgid "Audio > SID Engine"
+#~ msgstr "音频 > SID 引擎"
+
+#~ msgctxt "#30046"
+#~ msgid "Audio > SID Model"
+#~ msgstr "音频 > SID 型号"
+
+#~ msgctxt "#30047"
+#~ msgid "Audio > SID Extra"
+#~ msgstr "音频 > SID 附加"
+
+#~ msgctxt "#30048"
+#~ msgid "Audio > ReSID Sampling"
+#~ msgstr "音频 > ReSID 采样"
+
+#~ msgctxt "#30049"
+#~ msgid "Audio > ReSID Filter Passband"
+#~ msgstr "音频 > ReSID 滤波器通带"
+
+#~ msgctxt "#30050"
+#~ msgid "Audio > ReSID Filter Gain"
+#~ msgstr "音频 > ReSID 滤波器增益"
+
+#~ msgctxt "#30051"
+#~ msgid "Audio > ReSID Filter 6581 Bias"
+#~ msgstr "音频 > ReSID 滤波器 6581 Bias"
+
+#~ msgctxt "#30052"
+#~ msgid "Audio > ReSID Filter 8580 Bias"
+#~ msgstr "音频 > ReSID 滤波器 8580 Bias"
+
+#~ msgctxt "#30053"
+#~ msgid "Audio > SFX Sound Expander"
+#~ msgstr "音频 > SFX 扩音器"
+
+#~ msgctxt "#30054"
+#~ msgid "Audio > Sample Rate"
+#~ msgstr "音频 > 采样率"
+
+#~ msgctxt "#30055"
+#~ msgid "Input > Analog Stick Mouse"
+#~ msgstr "输入 > 模拟游戏杆鼠标"
+
+#~ msgctxt "#30056"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr "输入 > 模拟游戏杆鼠标死区"
+
+#~ msgctxt "#30057"
+#~ msgid "Input > Analog Stick Mouse Speed"
+#~ msgstr "输入 > 模拟游戏杆鼠标速度"
+
+#~ msgctxt "#30058"
+#~ msgid "Input > D-Pad Mouse Speed"
+#~ msgstr "输入 > 十字键鼠标速度"
+
+#~ msgctxt "#30059"
+#~ msgid "Input > Mouse Speed"
+#~ msgstr "输入 > 鼠标速度"
+
+#~ msgctxt "#30060"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "输入 > 键盘传递"
+
+#~ msgctxt "#30061"
+#~ msgid "Input > Datasette Hotkeys"
+#~ msgstr "输入 > 磁带机热键"
+
+#~ msgctxt "#30062"
+#~ msgid "Input > Keyrah Keypad Mappings"
+#~ msgstr "输入 > Keyrah 键盘映射"
+
+#~ msgctxt "#30063"
+#~ msgid "Input > Keyboard Keymap"
+#~ msgstr "输入 > 键盘键映射"
+
+#~ msgctxt "#30064"
+#~ msgid "Show Mapping Options"
+#~ msgstr "显示映射选项"
+
+#~ msgctxt "#30065"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "热键 > 切换虚拟键盘"
+
+#~ msgctxt "#30066"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "热键 > 切换状态栏"
+
+#~ msgctxt "#30067"
+#~ msgid "Hotkey > Switch Joyport"
+#~ msgstr "热键 > 切换 Joyport"
+
+#~ msgctxt "#30068"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "热键 > 切换 Turbo 开火"
+
+#~ msgctxt "#30069"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "热键 > 切换保存磁盘"
+
+#~ msgctxt "#30070"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "热键 > 重置"
+
+#~ msgctxt "#30071"
+#~ msgid "Hotkey > Hold Warp Mode"
+#~ msgstr "热键 > 保持 Warp 模式"
+
+#~ msgctxt "#30072"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "热键 > 切换纵横比"
+
+#~ msgctxt "#30073"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "热键 > 切换裁剪"
+
+#~ msgctxt "#30074"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "热键 > 切换缩放模式"
+
+#~ msgctxt "#30075"
+#~ msgid "Hotkey > Toggle Datasette Hotkeys"
+#~ msgstr "热键 > 切换磁带机热键"
+
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Datasette PLAY"
+#~ msgstr "热键 > 磁带机播放"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Datasette STOP"
+#~ msgstr "热键 > 磁带机停止"
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Datasette REWIND"
+#~ msgstr "热键 > 磁带机倒带"
+
+#~ msgctxt "#30079"
+#~ msgid "Hotkey > Datasette F.FWD"
+#~ msgstr "热键 > 磁带机快进"
+
+#~ msgctxt "#30080"
+#~ msgid "Hotkey > Datasette RESET"
+#~ msgstr "热键 > 磁带机重置"
+
+#~ msgctxt "#30081"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > 上"
+
+#~ msgctxt "#30082"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > 下"
+
+#~ msgctxt "#30083"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > 左"
+
+#~ msgctxt "#30084"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > 右"
+
+#~ msgctxt "#30085"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30087"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > 选择"
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > 开始"
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > L"
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > R"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > L2"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > R2"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > L3"
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > R3"
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > 左模拟 > 上"
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > 左模拟 > 下"
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > 左模拟 > 左"
+
+#~ msgctxt "#30100"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > 左模拟 > 右"
+
+#~ msgctxt "#30101"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > 右模拟 > 上"
+
+#~ msgctxt "#30102"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > 右模拟 > 下"
+
+#~ msgctxt "#30103"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > 右模拟 > 左"
+
+#~ msgctxt "#30104"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > 右模拟 > 右"
+
+#~ msgctxt "#30105"
+#~ msgid "RetroPad > Turbo Fire"
+#~ msgstr "RetroPad > Turbo 开火"
+
+#~ msgctxt "#30106"
+#~ msgid "RetroPad > Turbo Button"
+#~ msgstr "RetroPad > Turbo 按钮"
+
+#~ msgctxt "#30107"
+#~ msgid "RetroPad > Turbo Pulse"
+#~ msgstr "RetroPad > Turbo 脉冲"
+
+#~ msgctxt "#30108"
+#~ msgid "Input > Userport Joystick Adapter"
+#~ msgstr "输入 > 用户端口游戏杆适配器"
+
+#~ msgctxt "#30109"
+#~ msgid "RetroPad > Joystick Port"
+#~ msgstr "RetroPad > 游戏杆端口"
+
+#~ msgctxt "#30110"
+#~ msgid "RetroPad > Joystick Port Type"
+#~ msgstr "RetroPad > 游戏杆端口类型"
+
+#~ msgctxt "#30111"
+#~ msgid "RetroPad > Face Button Options"
+#~ msgstr "Retropad > Face 按钮选项"
 
 #~ msgctxt "#30026"
 #~ msgid "Video > VIC-II Filter Oddline Phase"
