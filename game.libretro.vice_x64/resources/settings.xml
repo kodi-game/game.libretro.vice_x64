@@ -12,6 +12,7 @@
 		<setting label="30008" type="select" id="vice_autostart" values="enabled|disabled|warp" default="enabled"/>
 		<setting label="30009" type="select" id="vice_drive_true_emulation" values="enabled|disabled" default="enabled"/>
 		<setting label="30010" type="select" id="vice_virtual_device_traps" values="disabled|enabled" default="disabled"/>
+		<setting label="30114" type="select" id="vice_floppy_multidrive" values="disabled|enabled" default="disabled"/>
 		<setting label="30011" type="select" id="vice_floppy_write_protection" values="disabled|enabled" default="disabled"/>
 		<setting label="30012" type="select" id="vice_easyflash_write_protection" values="disabled|enabled" default="disabled"/>
 		<setting label="30013" type="select" id="vice_work_disk" values="disabled|8_d64|9_d64|8_d71|9_d71|8_d81|9_d81|8_fs|9_fs" default="disabled"/>
@@ -19,6 +20,7 @@
 		<setting label="30015" type="select" id="vice_video_options_display" values="disabled|enabled" default="disabled"/>
 		<setting label="30016" type="select" id="vice_aspect_ratio" values="auto|pal|ntsc|raw" default="auto"/>
 		<setting label="30017" type="select" id="vice_crop" values="disabled|small|medium|maximum|auto|auto_disable|manual" default="disabled"/>
+		<setting label="30115" type="select" id="vice_crop_delay" values="enabled|disabled" default="enabled"/>
 		<setting label="30018" type="select" id="vice_zoom_mode" values="deprecated|disabled|small|medium|maximum|auto|auto_disable|manual" default="deprecated"/>
 		<setting label="30019" type="select" id="vice_crop_mode" values="both|horizontal|vertical|16:9|16:10|4:3|5:4" default="both"/>
 		<setting label="30020" type="select" id="vice_zoom_mode_crop" values="deprecated|both|horizontal|vertical|16:9|16:10|4:3|5:4" default="deprecated"/>
@@ -59,7 +61,8 @@
 		<setting label="30055" type="select" id="vice_sound_sample_rate" values="48000|22050|44100|96000" default="48000"/>
 		<setting label="30056" type="select" id="vice_analogmouse" values="left|disabled|right|both" default="left"/>
 		<setting label="30057" type="select" id="vice_analogmouse_deadzone" values="20|0|5|10|15|25|30|35|40|45|50" default="20"/>
-		<setting label="30058" type="select" id="vice_analogmouse_speed" values="1.0|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|1.1|1.2|1.3|1.4|1.5|1.6|1.7|1.8|1.9|2.0|2.1|2.2|2.3|2.4|2.5|2.6|2.7|2.8|2.9|3.0" default="1.0"/>
+		<setting label="30116" type="select" id="vice_analogmouse_speed" values="1.0|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|1.1|1.2|1.3|1.4|1.5|1.6|1.7|1.8|1.9|2.0|2.1|2.2|2.3|2.4|2.5|2.6|2.7|2.8|2.9|3.0" default="1.0"/>
+		<setting label="30117" type="select" id="vice_analogmouse_speed_right" values="1.0|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|1.1|1.2|1.3|1.4|1.5|1.6|1.7|1.8|1.9|2.0|2.1|2.2|2.3|2.4|2.5|2.6|2.7|2.8|2.9|3.0" default="1.0"/>
 		<setting label="30059" type="select" id="vice_dpadmouse_speed" values="6|1|2|3|4|5|7|8|9|10|11|12|13|14|15|16|17|18" default="6"/>
 		<setting label="30060" type="select" id="vice_mouse_speed" values="100|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200|210|220|230|240|250|260|270|280|290|300" default="100"/>
 		<setting label="30061" type="select" id="vice_physical_keyboard_pass_through" values="disabled|enabled" default="disabled"/>
