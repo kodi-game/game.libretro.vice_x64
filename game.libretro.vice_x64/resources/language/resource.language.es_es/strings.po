@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510)."
 msgstr "VICE son las siglas de Versatile Commodore Emulator (emulador versátil de Commodore). La versión actual emula el C64, el C64DTV, el C128, el VIC20, prácticamente todos los modelos PET, el PLUS4 y el CBM-II (también conocido como C610/C510)."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "System > Model"
 msgstr "Sistema > Modelo"
@@ -492,6 +488,10 @@ msgstr "Entrada > Velocidad de Ratón en Palanca Analógica Izquierda"
 msgctxt "#30117"
 msgid "Input > Right Analog Stick Mouse Speed"
 msgstr "Entrada > Velocidad de Ratón en Palanca Analógica Derecha"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
 
 #~ msgctxt "#30058"
 #~ msgid "Input > Analog Stick Mouse Speed"
