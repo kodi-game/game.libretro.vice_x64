@@ -405,7 +405,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_crop" type="string" label="30017" help="30198">
+				<setting id="vice_crop" type="string" label="30017" help="30697">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
