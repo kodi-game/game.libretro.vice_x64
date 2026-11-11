@@ -1,1 +1,1 @@
-vice_x64 https://github.com/libretro/vice-libretro/archive/6cbc44add8b0a03791b343712dc63dc1edad2675.tar.gz
+vice_x64 https://github.com/libretro/vice-libretro/archive/76cde0b2cc4e52106618f2cc5d9d1112d9205c89.tar.gz
