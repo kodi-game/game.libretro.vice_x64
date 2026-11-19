@@ -1630,7 +1630,7 @@
 				</setting>
 				<setting id="vice_analogmouse_deadzone" type="string" label="30745" help="30421">
 					<level>0</level>
-					<default>20</default>
+					<default>0</default>
 					<constraints>
 						<options>
 							<option label="30218">0</option>
